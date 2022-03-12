@@ -1,0 +1,11 @@
+<selekcija>
+	<ime>sve</ime>1
+	<aktivnost>1</aktivnost>1
+	<brojPravougaonika>1</brojPravougaonik>1
+	<pravougaonik>
+		<visina>48</visina>1
+		<sirina>73</sirina>1
+		<gore>82</gore>1
+		<levo>108</levo>1
+	</pravougaonik>
+</selekcija>
